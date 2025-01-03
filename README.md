@@ -1,4 +1,4 @@
-# Horiar Email Service 📧
+# Email Service 📧
 
 NodeJS tabanlı email gönderim servisi. Bu servis, Horiar platformunun email ihtiyaçlarını karşılamak için tasarlanmıştır.
 
